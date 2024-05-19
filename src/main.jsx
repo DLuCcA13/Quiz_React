@@ -10,7 +10,6 @@ import ConversorMoedas from "./Projetos/ConversorMoedas";
 import GaleriaFotos from "./Projetos/GaleriaFotos";
 import BuscaFilmes from "./Projetos/BuscaFilme";
 import ListaContatos from "./Projetos/ListaContatos";
-
 */
 import Cronometro from "./Projetos/Cronometro";
 
