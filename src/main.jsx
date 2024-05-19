@@ -12,9 +12,7 @@ import GaleriaFotos from "./Projetos/GaleriaFotos";
 import BuscaFilmes from "./Projetos/BuscaFilme";
 
 */
-import  from "./Projetos/ListaContatos";
-
-
+import ListaContatos from "./Projetos/ListaContatos";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
