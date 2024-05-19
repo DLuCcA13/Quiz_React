@@ -9,6 +9,7 @@ import BuscaFilmes from "./Projetos/BuscaFilme";
 import ListaContatos from "./Projetos/ListaContatos";
 import Cronometro from "./Projetos/Cronometro";
 import ListaTarefas from "./Projetos/ListaTarefas"
+
 */
 import Contador from "./Projetos/Contador";
 import "./index.css";
@@ -16,6 +17,6 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Contador/>
+    <Contador />
   </React.StrictMode>
 );
